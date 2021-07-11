@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋, je suis Baptiste Amice.
 
 <!--
 **BaptisteAmice/BaptisteAmice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="html5 Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git Logo" width="50" height="50"/>
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
