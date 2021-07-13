@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 
 
 ---
-<div bgcolor = skyblue>
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="html5 Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git Logo" width="50" height="50"/>
-</div>
 
-<table><tr><td bgcolor=#0099ff>
-Background content to change
-</td></tr></table>
+
+
 
 
 
