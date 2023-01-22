@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   
   
   <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git Logo" width="50" height="50"/>
   
   
 </div>
